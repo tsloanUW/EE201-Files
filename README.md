@@ -3,7 +3,7 @@ add text
 more text
 # About Me
 
-Hi, I am Tyler, and this is my first document for GitHub using git. 
+Hi, I am Tyler, and this is my first document on GitHub using git. 
 
 This is the **first** time I have taken a class like EE 201 where it exists only in a lab setting. The three hour block seems scary but overall, the class is chill.
 
